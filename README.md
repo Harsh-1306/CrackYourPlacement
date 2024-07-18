@@ -14,21 +14,6 @@ The primary motivation behind this challenge is to:
 * Gain familiarity with common data structures and algorithms
 * Prepare for technical interviews by tackling a variety of problems
   
-# Repository Structure
-The repository is structured as 
-CrackYourPlacement/
-│
-├── Day1/
-│   ├── problem1_solution.java
-│   ├── problem2_solution.java
-│   └── README.md
-├── Day2/
-│   ├── problem1_solution.java
-│   ├── problem2_solution.java
-│   └── README.md
-└── ...
-
-
 # Resources
 * [Leetcode](https://leetcode.com/u/harshsrivastava1306/) - Platform where the problems are sourced
 * [GeeksforGeeks](https://www.geeksforgeeks.org/user/harshsrivastava1306/harsh-srivastava-601300201) - Additional resources for understanding algorithms and data structures
