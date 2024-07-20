@@ -18,7 +18,7 @@ The primary motivation behind this challenge is to:
 * [Leetcode](https://leetcode.com/u/harshsrivastava1306/) - Platform where the problems are sourced
 * [GeeksforGeeks](https://www.geeksforgeeks.org/user/harshsrivastava1306/harsh-srivastava-601300201) - Additional resources for understanding algorithms and data structures
 # Acknowledgments
-I'd like to acknowledge the creators of Arsh Goyal and Leetcode for providing a platform to practice coding challenges.
+I'd like to acknowledge Arsh Goyal and Leetcode for providing a platform to practice coding challenges.
 
 # Connect
 Feel free to connect with me on  [LinkedIn](www.linkedin.com/in/) if you're also interested in discussing algorithms, data structures, or software engineering in general.
